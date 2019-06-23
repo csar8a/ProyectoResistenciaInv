@@ -1,0 +1,21 @@
+C:\Users\Cesar\Pictures\Proyecto de calculo fisica\Proyecto de calculo fisica\bin\Debug\Proyecto de calculo fisica.exe.config
+C:\Users\Cesar\Pictures\Proyecto de calculo fisica\Proyecto de calculo fisica\bin\Debug\Proyecto de calculo fisica.exe
+C:\Users\Cesar\Pictures\Proyecto de calculo fisica\Proyecto de calculo fisica\bin\Debug\Proyecto de calculo fisica.pdb
+C:\Users\Cesar\Pictures\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto_de_calculo_fisica.Form1.resources
+C:\Users\Cesar\Pictures\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto_de_calculo_fisica.Properties.Resources.resources
+C:\Users\Cesar\Pictures\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.csproj.GenerateResource.Cache
+C:\Users\Cesar\Pictures\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.exe
+C:\Users\Cesar\Pictures\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.pdb
+C:\Users\Cesar\Pictures\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Pictures\ProyectoFisica\Proyecto de calculo fisica\Proyecto de calculo fisica\bin\Debug\Proyecto de calculo fisica.exe.config
+C:\Users\Cesar\Pictures\ProyectoFisica\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.exe
+C:\Users\Cesar\Pictures\ProyectoFisica\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.pdb
+C:\Users\Cesar\Pictures\ProyectoFisica\Proyecto de calculo fisica\Proyecto de calculo fisica\bin\Debug\Proyecto de calculo fisica.exe
+C:\Users\Cesar\Pictures\ProyectoFisica\Proyecto de calculo fisica\Proyecto de calculo fisica\bin\Debug\Proyecto de calculo fisica.pdb
+C:\Users\Cesar\Pictures\ProyectoFisica\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Pictures\ProyectoFisica\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto_de_calculo_fisica.Form1.resources
+C:\Users\Cesar\Pictures\ProyectoFisica\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto_de_calculo_fisica.Properties.Resources.resources
+C:\Users\Cesar\Pictures\ProyectoFisica\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.csproj.GenerateResource.Cache
+C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\bin\Debug\Proyecto de calculo fisica.exe.config
+C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.exe
+C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.pdb
