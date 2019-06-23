@@ -19,3 +19,9 @@ C:\Users\Cesar\Pictures\ProyectoFisica\Proyecto de calculo fisica\Proyecto de ca
 C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\bin\Debug\Proyecto de calculo fisica.exe.config
 C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.exe
 C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.pdb
+C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\bin\Debug\Proyecto de calculo fisica.exe
+C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\bin\Debug\Proyecto de calculo fisica.pdb
+C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto_de_calculo_fisica.Form1.resources
+C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto_de_calculo_fisica.Properties.Resources.resources
+C:\xampp\htdocs\ProyectoResistenciaInv\Proyecto de calculo fisica\Proyecto de calculo fisica\obj\Debug\Proyecto de calculo fisica.csproj.GenerateResource.Cache
