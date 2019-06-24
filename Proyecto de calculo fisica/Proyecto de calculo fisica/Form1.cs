@@ -132,5 +132,10 @@ namespace Proyecto_de_calculo_fisica
             double final = (KSI * 1000 * 0.5 * 3.141592654 * Math.Pow(pul, 2)) / A;
             txtr2.Text = final.ToString();
         }
+
+        private void label25_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
